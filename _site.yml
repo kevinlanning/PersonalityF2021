@@ -6,9 +6,9 @@ navbar:
     - text: "honors personality"
       href: index.html
     - text: "syllabus"
-      href: PersonalityF2021syllabus.html
+      href: PersonalityF2021Syllabus.html
     - text: "schedule"
-      href: PersonalityF2021schedule.html
+      href: PersonalityF2021Schedule.html
     - text: "canvas"
       href: https://canvas.fau.edu/courses/108595
     - text: "inquisitive"
